@@ -33,7 +33,7 @@ class Hola extends StatelessWidget {
                   style: TextStyle(
                     fontFamily: 'Pacifico',
                     fontSize: 40,
-                    color: Colors.deepOrange,
+                    color: Colors.red,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
